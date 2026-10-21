@@ -1,0 +1,5 @@
+{
+  "name": "run-ledger",
+  "owner": { "name": "islandhopper81" },
+  "plugins": [{ "name": "run-ledger", "source": "./" }]
+}

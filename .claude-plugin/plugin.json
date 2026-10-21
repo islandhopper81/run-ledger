@@ -1,0 +1,6 @@
+{
+  "name": "run-ledger",
+  "version": "0.1.0",
+  "description": "Cost and model dashboard for Claude Code runs and subagents, with recommend-only model advice from Jev.",
+  "types": "./types/index.d.ts"
+}
